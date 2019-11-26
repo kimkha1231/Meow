@@ -1,0 +1,30 @@
+body {
+  background-color: #ffeef2;
+  max-width: 500px;
+  margin: auto;
+}
+
+a {
+  color: #ff8c00;
+}
+
+h1, h2, h3 {
+  color: #EF6079FF;
+  text-align: right;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+p {
+  text-align: right;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+meow {
+  text-align: center;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+li {
+  text-index: 200px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+nav {
+  text-align: right;
+}
